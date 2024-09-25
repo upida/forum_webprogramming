@@ -1,4 +1,4 @@
-# POST
+# GET
 
 Dari index.php di folder ini, kita dapat melakukan GET request ke server.
 
